@@ -1,0 +1,14 @@
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\bin\Debug\net8.0\pr_7.exe
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\bin\Debug\net8.0\pr_7.deps.json
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\bin\Debug\net8.0\pr_7.runtimeconfig.json
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\bin\Debug\net8.0\pr_7.dll
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\bin\Debug\net8.0\pr_7.pdb
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\obj\Debug\net8.0\pr_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\obj\Debug\net8.0\pr_7.AssemblyInfoInputs.cache
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\obj\Debug\net8.0\pr_7.AssemblyInfo.cs
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\obj\Debug\net8.0\pr_7.csproj.CoreCompileInputs.cache
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\obj\Debug\net8.0\pr_7.dll
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\obj\Debug\net8.0\refint\pr_7.dll
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\obj\Debug\net8.0\pr_7.pdb
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\obj\Debug\net8.0\pr_7.genruntimeconfig.cache
+C:\Users\nilto\Desktop\ПР С#\pr_7\pr_7\obj\Debug\net8.0\ref\pr_7.dll

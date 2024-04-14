@@ -1,0 +1,14 @@
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\bin\Debug\net8.0\pr_6.exe
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\bin\Debug\net8.0\pr_6.deps.json
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\bin\Debug\net8.0\pr_6.runtimeconfig.json
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\bin\Debug\net8.0\pr_6.dll
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\bin\Debug\net8.0\pr_6.pdb
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\obj\Debug\net8.0\pr_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\obj\Debug\net8.0\pr_6.AssemblyInfoInputs.cache
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\obj\Debug\net8.0\pr_6.AssemblyInfo.cs
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\obj\Debug\net8.0\pr_6.csproj.CoreCompileInputs.cache
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\obj\Debug\net8.0\pr_6.dll
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\obj\Debug\net8.0\refint\pr_6.dll
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\obj\Debug\net8.0\pr_6.pdb
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\obj\Debug\net8.0\pr_6.genruntimeconfig.cache
+C:\Users\nilto\Desktop\ПР С#\pr_6\pr_6\obj\Debug\net8.0\ref\pr_6.dll
