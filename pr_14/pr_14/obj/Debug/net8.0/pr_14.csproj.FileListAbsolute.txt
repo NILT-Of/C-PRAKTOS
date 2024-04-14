@@ -1,0 +1,14 @@
+D:\14.04.2024\ПР С#\pr_14\pr_14\bin\Debug\net8.0\pr_14.exe
+D:\14.04.2024\ПР С#\pr_14\pr_14\bin\Debug\net8.0\pr_14.deps.json
+D:\14.04.2024\ПР С#\pr_14\pr_14\bin\Debug\net8.0\pr_14.runtimeconfig.json
+D:\14.04.2024\ПР С#\pr_14\pr_14\bin\Debug\net8.0\pr_14.dll
+D:\14.04.2024\ПР С#\pr_14\pr_14\bin\Debug\net8.0\pr_14.pdb
+D:\14.04.2024\ПР С#\pr_14\pr_14\obj\Debug\net8.0\pr_14.GeneratedMSBuildEditorConfig.editorconfig
+D:\14.04.2024\ПР С#\pr_14\pr_14\obj\Debug\net8.0\pr_14.AssemblyInfoInputs.cache
+D:\14.04.2024\ПР С#\pr_14\pr_14\obj\Debug\net8.0\pr_14.AssemblyInfo.cs
+D:\14.04.2024\ПР С#\pr_14\pr_14\obj\Debug\net8.0\pr_14.csproj.CoreCompileInputs.cache
+D:\14.04.2024\ПР С#\pr_14\pr_14\obj\Debug\net8.0\pr_14.dll
+D:\14.04.2024\ПР С#\pr_14\pr_14\obj\Debug\net8.0\refint\pr_14.dll
+D:\14.04.2024\ПР С#\pr_14\pr_14\obj\Debug\net8.0\pr_14.pdb
+D:\14.04.2024\ПР С#\pr_14\pr_14\obj\Debug\net8.0\pr_14.genruntimeconfig.cache
+D:\14.04.2024\ПР С#\pr_14\pr_14\obj\Debug\net8.0\ref\pr_14.dll
